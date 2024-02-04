@@ -79,14 +79,13 @@ footer{
 footer p{
     font-size: 20px;
     text-align: right;
-    padding-left: 0px;
-    padding: 15px;
+    padding: 15px 15px 15px 0px;
 }
 
 div.blue h2, div.blue p{
     color: #C4C4C4
 }
 
-div.yellow p{
+.yellow p{
     color: #070707;
 }
